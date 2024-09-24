@@ -7,7 +7,7 @@
 
 - **R&R : 백엔드 개발 (3명 中 1명)**
 - **사용 기술 :** TypeScript, Express.js, GraphQL, PostgreSQL
-- **소속 :** Startup-Express, 일진창업지원센터, 2024 청년창업사관학교
+- **소속 :** Startup-Express, 일진창업지원센터, 2024 청업중심대학학
 
 🔗 **링크**
 
